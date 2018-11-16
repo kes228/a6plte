@@ -1,0 +1,2 @@
+persist.sys.usb.config=mtp
+sys.usb.controller=700000.dwc3
